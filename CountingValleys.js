@@ -21,7 +21,7 @@ function countingValleys(s) {
             level=0;
             start=false;
         }
-    })
+    })  
     return count;
 }
 console.log(countingValleys('UDDDUDUU'));
